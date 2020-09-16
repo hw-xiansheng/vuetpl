@@ -7,7 +7,12 @@
 
 <script>
 export default {
-  name: 'App'
+  name: 'App',
+  methods: {
+     wuge(){
+       console.log("武哥来过了！！！")
+     } 
+  }
 }
 </script>
 
