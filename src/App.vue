@@ -23,6 +23,9 @@ export default {
      },
      zhangyue3(){
        console.log("张悦3333")
+     }, 
+     wuge2(){
+       console.log("武哥222")
      } 
   }
 }
