@@ -14,6 +14,7 @@ export default {
      },
      zhangyue(){
        console.log("张悦来了！！")
+       console.log("张悦新来了！！！哎呀和！")
      } 
   }
 }
