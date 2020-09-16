@@ -20,6 +20,9 @@ export default {
      },
      zhangyue2(){
        console.log("张悦222")
+     },
+     wuge2(){
+       console.log("武哥222")
      } 
   }
 }
