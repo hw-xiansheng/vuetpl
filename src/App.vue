@@ -10,11 +10,13 @@ export default {
   name: 'App',
   methods: {
      wuge(){
-       console.log("武哥来过了222！哎呀哈哈！！")
+       console.log("武哥来过了222！【最新的！】！！")
+       console.log("武哥的新方法！")
+       console.log("哎呀来的新的")
      },
      zhangyue(){
-       console.log("张悦来了！！")
        console.log("张悦新来了！！！哎呀和！")
+       console.log("张悦【武哥走了一次！】来了！！")
      } 
   }
 }
