@@ -11,6 +11,9 @@ export default {
   methods: {
      wuge(){
        console.log("武哥来过了222！哎呀哈哈！！")
+     },
+     zhangyue(){
+       console.log("张悦来了！！")
      } 
   }
 }
