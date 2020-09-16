@@ -11,6 +11,7 @@ export default {
   methods: {
      wuge(){
        console.log("武哥来过了！！！")
+       console.log("武哥来过了222！哎呀哈哈！！")
      } 
   }
 }
